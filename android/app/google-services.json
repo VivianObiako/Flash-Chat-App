@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "187424100477",
+    "project_id": "flash-chat-f4b72",
+    "storage_bucket": "flash-chat-f4b72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187424100477:android:a841d7a4a59c4c0eeee114",
+        "android_client_info": {
+          "package_name": "co.VivianObiako.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187424100477-132n3brbd1m2a7c3g6atfct5ckke6vrd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJtgSpE-4V9Ts8MMeOfxr_5pmCbCty6YI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187424100477-132n3brbd1m2a7c3g6atfct5ckke6vrd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
